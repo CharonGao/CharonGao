@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm currently working on bid document editting, so not have much time for my own research topic.
+## I'm currently busy with document editting work of my laboratory, so don't have much time for my own research topic.
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CharonGao&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharonGao" /> </div>
 
